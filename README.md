@@ -1,4 +1,4 @@
-# tsunami-coffee
+# Tsunami Coffee
 Improving a websites responsiveness, based on a task checklist. It was a [Codecademy](https://www.codecademy.com/learn) project to implement Responsive Design learnings.
 
 ## Project Instructions
